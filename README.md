@@ -1,6 +1,6 @@
 # Emails scanner in Python with regular expressions
 
-## What is purpose of this script
+## What was the purpose of writing this script
 Just try to do someting with regular expressions
 
 ## What it can do
